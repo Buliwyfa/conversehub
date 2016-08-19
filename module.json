@@ -1,0 +1,13 @@
+{
+    "id": "conversejs",
+    "name": "Conversejs Chat into Humhub! ",
+    "description": "Conversejs Integration in Humhub",
+    "keywords": [
+        "core"
+    ],
+    "version": "0.1",
+    "humhub": {
+        "minVersion": "0.8"
+    },
+    "screenshots": ["assets/screen1.jpg","assets/screen2.jpg"]
+}
